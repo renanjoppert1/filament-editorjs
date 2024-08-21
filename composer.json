@@ -1,17 +1,17 @@
 {
-    "name": "rahmanramsi/filament-editorjs",
+    "name": "renanjoppert1/filament-editorjs",
     "description": "Next generation block styled editor.",
     "keywords": [
-        "rahmanramsi",
+        "renanjoppert",
         "laravel",
         "filament-editorjs"
     ],
-    "homepage": "https://github.com/rahmanramsi/filament-editorjs",
+    "homepage": "https://github.com/renanjoppert1/filament-editorjs",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rahman Ramsi",
-            "email": "rahmanramsi19@gmail.com",
+            "name": "Renan Joppert",
+            "email": "renanljp@gmail.com",
             "role": "Developer"
         }
     ],
